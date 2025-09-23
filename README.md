@@ -130,11 +130,6 @@ Authorization: Bearer {token}
 -   **XAMPP:** `http://localhost:8000` (using php artisan serve)
 -   **Laravel Sail:** `http://localhost` (port 80)
 
-## 🔑 Default Users
-
--   **Manager:** `manager@example.com` / `password`
--   **User:** `user@example.com` / `password`
-
 ## 📋 Features
 
 -   **Role-Based Access Control** - Different permissions for managers and users
