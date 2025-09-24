@@ -55,6 +55,9 @@
         "test": [
             "@php artisan config:clear --ansi",
             "@php artisan test"
+        ],
+        "pre-install-cmd": [
+            "git config core.longpaths true"
         ]
     },
     "extra": {
