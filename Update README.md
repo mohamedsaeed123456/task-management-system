@@ -43,6 +43,7 @@ You can run the project using XAMPP or Laravel Sail (Docker).
     DB_USERNAME=root
     DB_PASSWORD=
     ```
+⚠️ Important: Create a database in phpMyAdmin with the same name you set in DB_DATABASE.
 
 5. **Run migrations and seeders:**
 
